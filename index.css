@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    justify-content: center;
+   
+}
+.main{
+
+   background-color: rgb(255, 255, 255);
+   width: 500px;
+   height:450px;
+   display: grid;
+   place-items: center;
+   box-shadow: 1px 1px 10px gray;
+}
+.top-header{
+background-color: #688abd;
+height:22px;
+width: 80%;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+
+}
+h2 p  h6{
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+    font-family: 'Urbanist', sans-serif;
+}
+
+.top-header2{
+    border:2px solid #688abd;
+    height:22px;
+    width: 100px;
+    border-radius: 10px;
+    }
+.logo{
+        border:5px solid #688abd;
+        width:40%;
+        height: 85px;
+    }
+
+h1{
+    
+    color:black;
+}
+.icons{
+    display: flex;
+    width: 50%;
+
+}
+.a{
+    height: 50px;
+    width: 50px;
+    background-color: #688abd;
+    margin: 5px;
+    border-radius: 50%;
+}
+
+.main2{
+  display: flex;
+  background-color: black;
+    /* background-image: linear-gradient(gray, black); */
+   width: 500px;
+   height:300px;
+   box-shadow: 1px 1px 10px gray;
+   color: white;
+
+}
+.sidebar{
+    background-color: #688abd;
+    margin-left: 0% !important; 
+    width: 17%;
+    height: 300px;
+}
+.ab{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    border-radius: 50%;
+    border:4px solid #688abd;
+}
+.table{
+    margin-left: -30px;
+}
+.main3{
+    
+    background-color: black;
+    /* background-image: linear-gradient(gray, black); */
+     width: 500px;
+     height:1600px;
+     box-shadow: 1px 1px 10px gray;
+
+  }
+  .middle-header1{
+background-color: #688abd;
+height:22px;
+width: 80%;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+
+  }
+  .white{
+      width: 100%;
+      height: 20px;
+      background-color: white;
+  }
+  .middle-header2{
+    background-color: #688abd;
+    height:22px;
+    width: 80%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+      }
+      .aboutus{
+          color: white;
+          margin-left: 30px;
+      }
+      .ourproducts{
+          color: white;
+      }
+      .ourproducts2
+      {
+          
+          width: 90%;
+          border-radius: 20px;
+          background-color: rgb(0, 0, 0);
+          height: 600px;
+          box-shadow: 1px 1px 10px white;
+      }
+      .proimage{
+        width:80%;
+
+      }
+     .v{
+         place-items: center;
+         justify-content: center;
+     }
